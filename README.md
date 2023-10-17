@@ -1,6 +1,8 @@
-# symposium
+# Symposium 2023
 
-Webová aplikace pro delegáty na Symposium 2023
+This is a simple web app created to serve as a virtual booklet for delegates at Symposium 2023, held in Clubco, Brno.
+Time took to build: ~25 hours
+Number of users: 100+
 
 ## Getting Started
 
