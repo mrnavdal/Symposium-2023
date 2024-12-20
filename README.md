@@ -6,4 +6,4 @@ Time took to hack together: ~25 hours
 
 Number of users: 100+
 
-You can open this [at this link](symposium2023-ea106.web.app). I recommend using Google Chrome in mobile, as the app was intended to be accessed with a smartphone.
+You can open this [at this link](https://symposium2023-ea106.web.app). I recommend using Google Chrome in mobile, as the app was intended to be accessed with a smartphone.
